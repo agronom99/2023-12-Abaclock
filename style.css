@@ -22,9 +22,10 @@
     > time {
       width: 100%;
       text-align: center;
-      font-size: 5cqi;
-      color: white;
+      font-size: 20cqi;
+      color: tomato;
       font-family: system-ui, sans-serif;
+      font-weight: 700;
     }
     > [data-beads] {
       position: relative;
