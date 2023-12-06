@@ -74,7 +74,7 @@
     background-image: url("./beautiful-low-angle-photo-frauenkirche-lutheran-church-dresden-germany-night-sky.jpg");
 
     /* background-image: url(https://www.teachhub.com/wp-content/uploads/2020/05/Classroom-Management-for-an-Effective-Learning-Environment-768x512.jpg); */
-    background-size: 35%;
+    background-size: 100%;
     background-position: bottom center;
     filter: blur(1px);
     z-index: -1;
