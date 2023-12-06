@@ -23,7 +23,7 @@
       width: 100%;
       text-align: center;
       font-size: 20cqi;
-      color: tomato;
+      color: rgb(71, 212, 255);
       font-family: system-ui, sans-serif;
       font-weight: 700;
     }
@@ -70,12 +70,12 @@
   body::after{
     content: "";
     position: fixed;
-    inset: -8px;
-    background-image: url("./Screenshot_1.jpg");
+    inset: 0px;
+    background-image: url("./beautiful-low-angle-photo-frauenkirche-lutheran-church-dresden-germany-night-sky.jpg");
 
     /* background-image: url(https://www.teachhub.com/wp-content/uploads/2020/05/Classroom-Management-for-an-Effective-Learning-Environment-768x512.jpg); */
-    background-size: cover;
+    background-size: 35%;
     background-position: bottom center;
-    filter: blur(4px);
+    filter: blur(1px);
     z-index: -1;
   }
